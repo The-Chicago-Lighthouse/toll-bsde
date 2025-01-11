@@ -1,4 +1,4 @@
-#cd /d %~dp0
+::cd /d %~dp0
 @echo off
 ::=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ::Written by Esmeil Naqeeb
@@ -21,7 +21,7 @@ ping ra.ccsc.tollway.state.il.us
 @echo Installing Citrix Workspace Version [2203-6003]!
 @echo ...
 @echo ...
-#CitrixWSAv2203-6003.exe
+::CitrixWSAv2203-6003.exe
 @echo ...
 @echo ...
 @echo Installation [COMPLETED]
@@ -38,4 +38,4 @@ xcopy /f "Tollway Helpdesk Screen Connect.url" c:\users\public\desktop
 @echo ...
 @echo ...
 timeout 10
-#exit 0
+::exit 0
