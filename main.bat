@@ -1,9 +1,9 @@
 ::cd /d %~dp0
 @echo off
-::=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-::Written by Esmeil Naqeeb
-::Date last modified: 01/10/2025
-::=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+@echo =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+@echo Written by Esmeil Naqeeb
+@echo Date last modified: 01/10/2025
+@echo =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 @echo ...
 @echo ...
 @echo Pinging 8.8.8.8 ...
