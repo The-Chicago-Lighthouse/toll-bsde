@@ -8,6 +8,7 @@ cd c:\ && mkdir tolltemp && cd tolltemp && curl -L -o main.zip https://github.co
 
 or
 
+Run the following in elavated mode [run as administrator] in PowerShell:
 ```
 Set-Location C:\
 New-Item -ItemType Directory -Force -Path tolltemp | Out-Null
